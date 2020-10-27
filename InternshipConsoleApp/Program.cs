@@ -7,7 +7,7 @@ namespace InternshipConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Hi, I'm Diana!");
+            Console.WriteLine("Hi, I'm Cristi!");
         }
     }
 }
